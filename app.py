@@ -276,3 +276,4 @@ if __name__ == "__main__":
     else:
         start_scheduler()
         run_web()
+        map_kh_parking()
